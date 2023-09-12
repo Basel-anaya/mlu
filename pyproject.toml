@@ -1,1 +1,18 @@
+[project]
+name = "mlu"
+version = "1.0.0"
+authors = [
+  { name="Basel Anaya", email="baselanaya@gmail.com" },
+]
+description = "A machine learning utilities package which contains utilities that can assist data scientists and ML engineers"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
 
+[project.urls]
+"Homepage" = "https://github.com/Basel-anaya/mlu"
+"Bug Tracker" = "https://github.com/Basel-anaya/mlu/issues"
